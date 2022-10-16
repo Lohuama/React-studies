@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <Header name="Menu" links={["sobre", "comprar", "contato"]}></Header>
+    <Header name="Menu" links={["Sobre", "Comprar", "Contato", "Login"]}></Header>
   );
 }
 
