@@ -1,2 +1,2 @@
-# React---Estudos
-iniciando estudos em React
+# React-studies
+starting studies in React
